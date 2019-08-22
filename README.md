@@ -1,1 +1,1 @@
-# SCC17-LAMMPS-USTC
+#### Input files, building and benching scirpts of LAMMPS for USTC team in SCC17.
